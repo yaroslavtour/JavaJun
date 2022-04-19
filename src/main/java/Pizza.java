@@ -6,9 +6,9 @@ public class Pizza {
         } else if (money < 100) {
             System.out.println("Doshik");
         } else if (money > 100 & money < 300){
-            System.out.println("Гамбургер");
+            System.out.println("Gamburger");
         } else {
-            System.out.println("It's not enough for Pizza but enough for Doshik");
+            System.out.println("It's not enough for Pizza or Gamburger but enough for Doshik");
         }
     }
 }
