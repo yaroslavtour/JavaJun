@@ -1,6 +1,6 @@
 public class ArrayReplace {
     public static void main(String[] args) {
-        int[] first = new int[900];
+        int[] first = new int[901];
         for(int i = 0; i < first.length; i++) {
             first[i] = i + 100;
         };
